@@ -1,0 +1,266 @@
+{
+  "Indian History": [
+    {
+      "question": "Who is known as the Father of the Indian Nation?",
+      "options": ["Jawaharlal Nehru", "Subhash Chandra Bose", "Mahatma Gandhi", "Bhagat Singh"],
+      "answer": 2
+    },
+    {
+      "question": "In which year did India get independence?",
+      "options": ["1945", "1946", "1947", "1950"],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Rajendra Prasad", "Lal Bahadur Shastri"],
+      "answer": 1
+    },
+    {
+      "question": "Which empire was ruled by Ashoka?",
+      "options": ["Gupta", "Mughal", "Maurya", "Chola"],
+      "answer": 2
+    },
+    {
+      "question": "The Quit India Movement started in which year?",
+      "options": ["1940", "1941", "1942", "1945"],
+      "answer": 2
+    },
+    {
+      "question": "Who wrote the Indian National Anthem?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Subramania Bharati", "Sarojini Naidu"],
+      "answer": 1
+    },
+    {
+      "question": "Capital of the Mughal Empire was?",
+      "options": ["Delhi", "Agra", "Fatehpur Sikri", "Lahore"],
+      "answer": 1
+    },
+    {
+      "question": "Who introduced the Doctrine of Lapse?",
+      "options": ["Lord Mountbatten", "Lord Curzon", "Lord Dalhousie", "Lord Canning"],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first President of India?",
+      "options": ["Jawaharlal Nehru", "B. R. Ambedkar", "Rajendra Prasad", "Sardar Patel"],
+      "answer": 2
+    },
+    {
+      "question": "Who gave the slogan 'Inquilab Zindabad'?",
+      "options": ["Mahatma Gandhi", "Bhagat Singh", "Lala Lajpat Rai", "Bal Gangadhar Tilak"],
+      "answer": 1
+    }
+  ],
+
+  "Geography": [
+    {
+      "question": "Which is the longest river in India?",
+      "options": ["Yamuna", "Godavari", "Ganga", "Brahmaputra"],
+      "answer": 2
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": 1
+    },
+    {
+      "question": "Which is the largest continent?",
+      "options": ["Africa", "Europe", "Asia", "Australia"],
+      "answer": 2
+    },
+    {
+      "question": "Capital of Tamil Nadu is?",
+      "options": ["Madurai", "Trichy", "Chennai", "Coimbatore"],
+      "answer": 2
+    },
+    {
+      "question": "Which is the largest ocean?",
+      "options": ["Indian", "Arctic", "Atlantic", "Pacific"],
+      "answer": 3
+    },
+    {
+      "question": "Mount Everest is located in which country?",
+      "options": ["India", "China", "Nepal", "Bhutan"],
+      "answer": 2
+    },
+    {
+      "question": "Which is the largest desert in the world?",
+      "options": ["Sahara", "Thar", "Gobi", "Kalahari"],
+      "answer": 0
+    },
+    {
+      "question": "Tropic of Cancer passes through how many Indian states?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 2
+    },
+    {
+      "question": "Which country has the largest population?",
+      "options": ["USA", "India", "China", "Russia"],
+      "answer": 1
+    },
+    {
+      "question": "Which river is called the Sorrow of Bihar?",
+      "options": ["Ganga", "Yamuna", "Kosi", "Son"],
+      "answer": 2
+    }
+  ],
+
+  "Science": [
+    {
+      "question": "What is the chemical symbol of water?",
+      "options": ["O2", "CO2", "H2O", "HO"],
+      "answer": 2
+    },
+    {
+      "question": "Which gas is essential for breathing?",
+      "options": ["Hydrogen", "Oxygen", "Nitrogen", "Carbon dioxide"],
+      "answer": 1
+    },
+    {
+      "question": "Which organ pumps blood in the human body?",
+      "options": ["Brain", "Kidney", "Heart", "Liver"],
+      "answer": 2
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "answer": 2
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "options": ["50°C", "100°C", "150°C", "200°C"],
+      "answer": 1
+    },
+    {
+      "question": "Which vitamin is produced in sunlight?",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "answer": 3
+    },
+    {
+      "question": "What is the unit of electric current?",
+      "options": ["Volt", "Watt", "Ampere", "Ohm"],
+      "answer": 2
+    },
+    {
+      "question": "Which part of the plant performs photosynthesis?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "answer": 2
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Iron", "Mercury", "Copper", "Gold"],
+      "answer": 1
+    },
+    {
+      "question": "What gas do plants release during photosynthesis?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 0
+    }
+  ],
+
+  "Indian Polity": [
+    {
+      "question": "Who is the head of the Indian State?",
+      "options": ["Prime Minister", "President", "Chief Justice", "Governor"],
+      "answer": 1
+    },
+    {
+      "question": "How many fundamental rights are there in India?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the first citizen of India?",
+      "options": ["Prime Minister", "Vice President", "President", "Chief Minister"],
+      "answer": 2
+    },
+    {
+      "question": "How many houses are there in Parliament?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1
+    },
+    {
+      "question": "Rajya Sabha is also called?",
+      "options": ["Upper House", "Lower House", "State Assembly", "People’s House"],
+      "answer": 0
+    },
+    {
+      "question": "Lok Sabha members are elected for how many years?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 1
+    },
+    {
+      "question": "Who appoints the Prime Minister?",
+      "options": ["Parliament", "Supreme Court", "President", "Election Commission"],
+      "answer": 2
+    },
+    {
+      "question": "Indian Constitution was adopted in which year?",
+      "options": ["1947", "1948", "1949", "1950"],
+      "answer": 2
+    },
+    {
+      "question": "Who is known as the Father of Indian Constitution?",
+      "options": ["Nehru", "Patel", "Ambedkar", "Rajendra Prasad"],
+      "answer": 2
+    },
+    {
+      "question": "Supreme Law of India is?",
+      "options": ["IPC", "Parliament", "Constitution", "Judiciary"],
+      "answer": 2
+    }
+  ],
+
+  "Computer & Technology": [
+    {
+      "question": "Who is known as the Father of Computers?",
+      "options": ["Bill Gates", "Charles Babbage", "Steve Jobs", "Alan Turing"],
+      "answer": 1
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Central Power Unit", "Central Processing Unit", "Computer Processing Unit", "Control Program Unit"],
+      "answer": 1
+    },
+    {
+      "question": "Which language is used for web pages?",
+      "options": ["Python", "Java", "HTML", "C"],
+      "answer": 2
+    },
+    {
+      "question": "Which device is used to input text?",
+      "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+      "answer": 2
+    },
+    {
+      "question": "What is RAM?",
+      "options": ["Permanent memory", "Temporary memory", "Hard disk", "Processor"],
+      "answer": 1
+    },
+    {
+      "question": "Which is an operating system?",
+      "options": ["MS Word", "Windows", "Chrome", "Excel"],
+      "answer": 1
+    },
+    {
+      "question": "Full form of URL?",
+      "options": ["Universal Resource Link", "Uniform Resource Locator", "Unified Resource Locator", "Universal Resource Locator"],
+      "answer": 1
+    },
+    {
+      "question": "Which one is a programming language?",
+      "options": ["HTML", "Python", "HTTP", "WWW"],
+      "answer": 1
+    },
+    {
+      "question": "What does WWW stand for?",
+      "options": ["World Wide Web", "World Web Wide", "Wide World Web", "Web World Wide"],
+      "answer": 0
+    },
+    {
+      "question": "Which device displays output?",
+      "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+      "answer": 2
+    }
+  ]
+}
